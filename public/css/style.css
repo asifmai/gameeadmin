@@ -1,0 +1,69 @@
+.parsley-errors-list.filled {
+  list-style: none;
+  padding-left: 0.5em;
+  font-size: 0.8em;
+  margin-bottom: 0;
+  color: #ff3547;
+  text-align: left;
+}
+
+.alert {
+  margin-bottom: 0.5em;
+  padding: 0.3em 0.7em;
+  font-size: 0.8em;
+}
+
+.alert-dismissible .close {
+  padding: 0.1em 0.3em;
+}
+
+.navbar-sidebar .navbar__list li a i {
+  margin-right: 0;
+  width: 36px;
+}
+
+.overview-item {
+  padding: 15px !important;
+}
+
+.overview-box .text {
+  font-weight: 300;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5em;
+}
+
+.overview-box .icon {
+  display: block;
+  margin-right: 0;
+  font-size: 1.7em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 1em;
+}
+
+.btn:focus {
+  box-shadow: none !important;
+}
+
+.au-card {
+  padding: 22px;
+}
+
+.menu-sidebar {
+  width: 260px;
+}
+
+.header-desktop {
+  left: 260px;
+}
+
+.page-container {
+  padding-left: 260px;
+}
+
+.section__content--p30 {
+  padding: 0;
+}
